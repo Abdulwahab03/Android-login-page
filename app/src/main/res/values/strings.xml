@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Sign in page</string>
+    <string name = "first_page_title">Sign In Page</string>
+    <string name = "second_page_title">Sign Up page</string>
+    <string name = "sign_in_description">
+        sign in with your email and password
+        if you have one already else create
+        a new one in sign up page </string>
+    <string name= "sign_up_description">
+        Create new email and password
+    if you  don't have one yet  </string>
+    <string name= "type_your_password">Type Your Password</string>
+    <string name= "type_your_email">Type your Email</string>
+    <string name= "retype_your_password">Retype Your Password</string>
+    <string name= "sign_up">Sign Up</string>
+    <string name= "already_registered_sign_in">Already Registered , Sign In !</string>
+    <string name= "sign_in">Sign In</string>
+    <string name= "not_registered_yet_sign_up">Not Registered Yet , Sign Up !</string>
+</resources>
